@@ -1,0 +1,78 @@
+body {
+  background-color: #eee;
+}
+.navigation-list {
+  display: flex;
+  margin-left: 600px;
+  margin-right: 10px;
+  justify-content: space-evenly;
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+.nav-item {
+  list-style-type: none;
+}
+
+.text-align {
+  margin-top: 8px;
+  margin-bottom: 8px;
+  text-align: center;
+  text-decoration: ivory;
+}
+
+.navigation-list {
+  text-align: right;
+  text-transform: uppercase;
+}
+.text-align-email {
+  text-align: center;
+  width: 275px;
+  height: 29px;
+}
+
+h2 {
+  margin: 0px;
+}
+.submit {
+  margin: 15px 0px;
+  padding: 0px 20px;
+  text-align: center;
+}
+.input-button {
+  width: 150px;
+  height: 30px;
+  font-family: " Times New  Roman", Times, serif;
+  font-weight: bolder;
+  font-size: 1em;
+  background-color: #f1c40f;
+  border: none;
+  text-transform: uppercase;
+}
+.product {
+  margin-top: 50px;
+  margin-bottom: 20px;
+}
+.product {
+  text-align: center;
+  margin-left: 10px;
+  margin-right: 10px;
+  border: 2px solid black;
+  width: 25%;
+}
+.product-class {
+  font: 16px arial;
+  list-style-type: none;
+}
+button {
+  background-color: #f1c40f;
+  margin: 15px 0px;
+  padding: 0px 20px;
+  font-size: 25px;
+}
+.level {
+  background: #dddddd;
+  font: 16px Lato, sans-serif;
+}
+.video {
+  margin-left: 400px;
+  margin: right 100px;
+}
